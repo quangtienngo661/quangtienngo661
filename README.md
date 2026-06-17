@@ -2,7 +2,7 @@
 
 ### 🎓 Software Engineering Student @ UIT | Backend Enthusiast
 
-I am currently a third-year student majoring in Software Engineering at the **University of Information Technology (UIT - VNUHCM)**.
+I am currently a final-year student majoring in Software Engineering at the **University of Information Technology (UIT - VNUHCM)**.
 
 My passion lies in building scalable backend systems and understanding how things work under the hood. I am actively learning and applying modern architectures to real-world projects.
 
