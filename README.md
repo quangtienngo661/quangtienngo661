@@ -10,7 +10,7 @@ My passion lies in building scalable backend systems and understanding how thing
 - 🌱 I'm currently exploring **System Design, Microservices, and DevOps practices**
 - 🎓 I'm studying at **University of Information Technology (UIT)**
 - 💬 Ask me about **Node.js, NestJS, and Database Design**
-- 📫 How to reach me: **quangtienngo661@gmail.com**
+- 📫 How to reach me: **tienngo03.2005@gmail.com**
 - ⚡ Fun fact: **I code to turn coffee into bugs (and sometimes features).**
 
 ---
@@ -22,8 +22,8 @@ As a student focusing on Backend, here is the tech stack I am experienced with:
 | Domain | Technologies |
 | :--- | :--- |
 | **Backend (Main Focus)** | <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,express,java,spring,cs" /></a> |
-| **Database & Cloud** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,rabbitmq,docker" /></a> |
-| **Frontend & Mobile** | <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react,html,css,js,androidstudio" /></a> |
+| **Database & Cloud** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq,docker" /></a> |
+| **Frontend** | <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react,html,css,js,ts" /></a> |
 | **Tools & Version Control** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,postman,figma,jest" /></a> |
 <!--
 ---
